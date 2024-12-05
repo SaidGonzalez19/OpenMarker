@@ -21,3 +21,12 @@ En cuanto a la evolución de los requisitos, se mantiene exactemente igual a la 
 Los refinamientos a los artefactos quedaron plasmados en la segunda entrega, desde ahí no ha habido ninguna modificación, la carpeta donde se encuentran los artefactos es: [Refinamiento de artefactos](https://github.com/SaidGonzalez19/OpenMarket/tree/0eddcf9d9bfb499064799eb66068511460f07b38/Requisitos/Refinamiento%20de%20artefactos)
 
 El listado final de los requerimientos es todo el conjunto de la evolución de requisitos y refinamiento de artefactos, contenidos en la carpeta de la segunda entrega: [Listado final de requerimientos](https://github.com/SaidGonzalez19/OpenMarket/tree/0eddcf9d9bfb499064799eb66068511460f07b38/Requisitos)
+
+## Diseño
+### Evolución de las interfaces de usuario
+En cuanto a las interfaces de usuario, se agregaron 6 nuevas interfaces con respecto al total de interfaces de la segunda entrega, las nuevas interfaces se describen en el siguiente documento: [Nuevas interfaces](https://github.com/SaidGonzalez19/OpenMarket/blob/4375936568bda23f41058229d5a1c8e99f52cc75/Dise%C3%B1o/Evoluci%C3%B3n%20de%20las%20interfaces%20de%20usuario.pdf)  
+Para visualizar el diseño de las interfaces para editar en Figma, ingrese en el siguiente enlace: [Interfaces Figma](https://www.figma.com/design/URZkXiqF1xDprpB9cH3ReB/Interfaces?node-id=0-1&t=OqV9IUgnijpoECJI-1)  
+Para visualizar la emulación de las interfaces en funcionamiento, ingrese al siguiente enlace:[Emulación de las interfaces](https://www.figma.com/proto/URZkXiqF1xDprpB9cH3ReB/Interfaces?node-id=1-2&node-type=canvas&t=TAlIhXIDMGdUIcXE-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)  
+
+### Correspondencia con los requisitos
+En cuanto a las correspondencia de las interfaces con los requisitos se encuentran las mismas correspondencias de la segunda entrega [Correspondencia con los requisitos 1](https://github.com/SaidGonzalez19/OpenMarket/blob/0eddcf9d9bfb499064799eb66068511460f07b38/Dise%C3%B1o/Correspondencia%20con%20los%20requisitos.pdf) en adición de las correspondencias con las nuevas interfaces [Correspondencia con los requisitos 2](https://github.com/SaidGonzalez19/OpenMarket/blob/4375936568bda23f41058229d5a1c8e99f52cc75/Dise%C3%B1o/Correspondencia%20con%20los%20requisitos%20NUEVAS%20INTERFACES.pdf)
