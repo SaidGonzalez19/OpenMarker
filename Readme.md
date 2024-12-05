@@ -12,4 +12,5 @@ En cuanto a los usuarios del proyecto, no se hizo cambios desde la primera entre
 Estos usuarios se plasmaron desde la primera entrega en el siguiente documento: [Usuarios](https://github.com/SaidGonzalez19/OpenMarket/blob/3cd5817e47fcc5320fd4b3042caa8592d6a322f5/Producto.docx)
 
 ### Innovación
-La innovación del producto se planteó desde la primera entrega en las propuestas de valor, las cuales responden a las preguntas: ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar original la contribución?
+La innovación del producto se planteó desde la primera entrega en las propuestas de valor, las cuales responden a las preguntas: ¿Qué incluye este producto que no hacen otros? ¿En una necesidad identificada? ¿Por qué se podrían considerar original la contribución?.  
+La innovación se plasma en el siguiente documento: [Innovación](https://github.com/SaidGonzalez19/OpenMarket/blob/4974c7d1dafea4b334a6ba72067c5a620421653d/Innovaci%C3%B3n.pdf)
