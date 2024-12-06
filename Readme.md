@@ -48,3 +48,13 @@ El proceso y gestión del proceso para esta entrega se hizo con ayuda de una tab
 
 ### Métrica de contribución individual
 La métrica de contribución para esta revisión queda de la siguiente manera: [Métrica](https://github.com/SaidGonzalez19/OpenMarket/blob/edc089cb886fd603ca49e7d541fe1d2d57996f76/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.pdf)
+
+## Competencias
+### Genéricas
+El documento donde argumentamos como se promueven las competencias genéricas en el desarrollo del proyecto para esta entrega es el siguiente: [Competencias genéricas](https://github.com/SaidGonzalez19/OpenMarket/blob/3350b6622cdd0202b7859c8e8e4de7a4600d8122/Competencias/Competencias%20Gen%C3%A9ricas.pdf)
+
+### Específicas
+El documento donde se argumenta el seguimiento de las competencias específicas a lo largo del desarrollo del proyecto en esta entrega es el siguiente: [Competencias específicas](https://github.com/SaidGonzalez19/OpenMarket/blob/3350b6622cdd0202b7859c8e8e4de7a4600d8122/Competencias/Competencias%20Espec%C3%ADficas.pdf)
+
+### Crítica constructiva al curso
+Para terminar, en el siguiente documento se da una crítica constructiva al curso: [Crítica](https://github.com/SaidGonzalez19/OpenMarket/blob/3350b6622cdd0202b7859c8e8e4de7a4600d8122/Competencias/Cr%C3%ADtica%20constructiva%20al%20curso.pdf)
