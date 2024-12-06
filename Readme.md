@@ -53,7 +53,7 @@ La métrica de contribución para esta revisión queda de la siguiente manera: [
 Para esta entrega, tenemos un ejemplo de Definition of Done (DoD) que hemos aplicado para la realización de nuestras historias de usuarios en este sprint 6, con el fin de asegurar la calidad del proyecto y tener una métrica de progreso clara para las tareas. La DoD del proyecto y sus criterios se encuentra en el siguiente enlace: [DoD OpenMarket](https://github.com/SaidGonzalez19/OpenMarket/blob/b309c3859fe7b2b26eca55eb7a6aae4c4fc73e86/Definitioin%20of%20Done%20(DoD).md)
 
 ## Presentación del avance [carpeta](https://github.com/SaidGonzalez19/OpenMarket/tree/bfa4e4b7ff739973d531a8bf30112037421bbd45/Presentaci%C3%B3n%20del%20avance)
-La presentación en video se encuentra en el siguiente enlace [Presentación en video](https://youtu.be/BSg7H2FRGIE) 
+La presentación en video se encuentra en el siguiente enlace [Presentación en video](https://youtu.be/BSg7H2FRGIE)  
 El canva colaborativo está en el siguiente enlace [Canva](https://www.canva.com/design/DAGYeks9EJw/RrdTlUcVCKpK0N_yqkZfOA/edit?utm_content=DAGYeks9EJw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 El pdf con la presentación de canva está en el siguiente archivo: [Presentación](https://github.com/SaidGonzalez19/OpenMarket/blob/bfa4e4b7ff739973d531a8bf30112037421bbd45/Presentaci%C3%B3n%20del%20avance/OpenMarket-Presentaci%C3%B3n.pdf)
 
