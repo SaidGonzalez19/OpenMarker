@@ -47,7 +47,7 @@ Los resultados de las pruebas de usabilidad indican las facilidades y dificultad
 El proceso y gestión del proceso para esta entrega se hizo con ayuda de una tabla de gestión, la cual contuvo el único sprint para esta entrega (**el sprint 6**), en el se plasmaron las 10 distintas historias de usuario enfocadas al usuario y 1 enfocada al equipo de desarrollo, asimismo, estas historias de usuario contienen tareas con sus respectivos responsables, estimación de tiempo, y tiempo tomado en el transcurso de la semana, en enlace de la tabla de gestión es el siguiente: [Tabla de gestión](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a21201668_alumnos_uady_mx/ERBAaFBy5-VMtShH0geK7MgBUHvZ_wE4SaO4BJuSmurzpQ?e=gJUsV3)
 
 ### Métrica de contribución individual
-La métrica de contribución para esta revisión queda de la siguiente manera: [Métrica](https://github.com/SaidGonzalez19/OpenMarket/blob/edc089cb886fd603ca49e7d541fe1d2d57996f76/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.pdf)
+La métrica de contribución para esta revisión queda de la siguiente manera: [Métrica](https://github.com/SaidGonzalez19/OpenMarket/blob/8bd5ee5119273c211512230f45b00f5ec6bdd2c7/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.pdf)
 
 ### Artefactos Scrum (DoD)
 Para esta entrega, tenemos un ejemplo de Definition of Done (DoD) que hemos aplicado para la realización de nuestras historias de usuarios en este sprint 6, con el fin de asegurar la calidad del proyecto y tener una métrica de progreso clara para las tareas. La DoD del proyecto y sus criterios se encuentra en el siguiente enlace: [DoD OpenMarket](https://github.com/SaidGonzalez19/OpenMarket/blob/b309c3859fe7b2b26eca55eb7a6aae4c4fc73e86/Definitioin%20of%20Done%20(DoD).md)
