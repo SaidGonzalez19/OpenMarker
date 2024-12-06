@@ -31,3 +31,11 @@ Para visualizar la emulación de las interfaces en funcionamiento, ingrese al si
 
 ### Correspondencia con los requisitos
 En cuanto a las correspondencia de las interfaces con los requisitos se encuentran las mismas correspondencias de la segunda entrega [Correspondencia con los requisitos 1](https://github.com/SaidGonzalez19/OpenMarket/blob/0eddcf9d9bfb499064799eb66068511460f07b38/Dise%C3%B1o/Correspondencia%20con%20los%20requisitos.pdf) en adición de las correspondencias con las nuevas interfaces [Correspondencia con los requisitos 2](https://github.com/SaidGonzalez19/OpenMarket/blob/4375936568bda23f41058229d5a1c8e99f52cc75/Dise%C3%B1o/Correspondencia%20con%20los%20requisitos%20NUEVAS%20INTERFACES.pdf)
+
+## Pruebas
+### Pruebas informales [Carpeta](https://github.com/SaidGonzalez19/OpenMarket/tree/489823e3305d52a03c7a64e85a0c64b503ae7ed2/Pruebas/Pruebas%20informales)
+En cuanto a la pruebas informales, debido a que en el sprint hubo un total de 10 historias de usuario, se realizó **10 formatos de tareas de pruebas de usabilidad**, cada formato contenía las tareas a aplicar en las distintas pruebas de usabilidad para atender las historias de usuario, el enlace a la carpeta con los formatos de las tareas de las pruebas es el siguiente: [Tareas UT](https://github.com/SaidGonzalez19/OpenMarket/tree/489823e3305d52a03c7a64e85a0c64b503ae7ed2/Pruebas/Pruebas%20informales/Tareas%20UT)
+
+De igual forma, se realizó un formato de cuestionarios de satisfacción que se le aplicaron a todos los usuarios que participaron en las pruebas, dicho formato es el siguiente: [Formato](https://github.com/SaidGonzalez19/OpenMarket/blob/489823e3305d52a03c7a64e85a0c64b503ae7ed2/Pruebas/Pruebas%20informales/Formato-Encuesta%20de%20satisfacci%C3%B3n%20de%20las%20pruebas%20de%20usabilidad.pdf)
+
+Por ultimo y no menos importante, se realizaron de manera exitosa las 10 pruebas de usabilidad que atendían a las 10 historias de usuario enfocadas a los usuarios compradores y vendedores, estas pruebas se grabaron y se subieron a YouTube junto con su respectiva retroalimentación, en el siguiente archivo markdown encontrará los enlaces a los videos: [Videos UT](https://github.com/SaidGonzalez19/OpenMarket/blob/489823e3305d52a03c7a64e85a0c64b503ae7ed2/Pruebas/Pruebas%20informales/Videos%20UT.md)
