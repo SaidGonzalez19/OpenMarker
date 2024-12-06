@@ -49,6 +49,9 @@ El proceso y gestión del proceso para esta entrega se hizo con ayuda de una tab
 ### Métrica de contribución individual
 La métrica de contribución para esta revisión queda de la siguiente manera: [Métrica](https://github.com/SaidGonzalez19/OpenMarket/blob/edc089cb886fd603ca49e7d541fe1d2d57996f76/M%C3%A9trica%20de%20contribuci%C3%B3n%20individual.pdf)
 
+### Artefactos Scrum (DoD)
+Para esta entrega, tenemos un ejemplo de Definition of Done (DoD) que hemos aplicado para la realización de nuestras historias de usuarios en este sprint 6, con el fin de asegurar la calidad del proyecto y tener una métrica de progreso clara para las tareas. La DoD del proyecto y sus criterios se encuentra en el siguiente enlace: [DoD OpenMarket](https://github.com/SaidGonzalez19/OpenMarket/blob/b309c3859fe7b2b26eca55eb7a6aae4c4fc73e86/Definitioin%20of%20Done%20(DoD).md)
+
 ## Competencias
 ### Genéricas
 El documento donde argumentamos como se promueven las competencias genéricas en el desarrollo del proyecto para esta entrega es el siguiente: [Competencias genéricas](https://github.com/SaidGonzalez19/OpenMarket/blob/3350b6622cdd0202b7859c8e8e4de7a4600d8122/Competencias/Competencias%20Gen%C3%A9ricas.pdf)
