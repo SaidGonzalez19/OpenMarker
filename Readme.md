@@ -61,3 +61,15 @@ El documento donde se argumenta el seguimiento de las competencias específicas 
 
 ### Crítica constructiva al curso
 Para terminar, en el siguiente documento se da una crítica constructiva al curso: [Crítica](https://github.com/SaidGonzalez19/OpenMarket/blob/3350b6622cdd0202b7859c8e8e4de7a4600d8122/Competencias/Cr%C3%ADtica%20constructiva%20al%20curso.pdf)
+
+## Herramientas y métodos principales
+### Herramientas
+Las principales herramientas que ayudaron a la realización de este proyecto fueron:
+- **Microsoft Excel**. Para la organización
+- **Figma**. Para el diseño
+- **GitHub**. Para la documentación
+
+### Métodos
+Los métodos que ayudaron a la realización de este proyecto fueron:
+- **Apegó a la metodología Scrum**. Para la realización del proyecto de manera eficaz y eficiente
+- **Uso de las pruebas de usabilidad**. Para mantener la buena calidad del proyecto
