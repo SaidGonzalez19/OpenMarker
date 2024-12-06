@@ -40,6 +40,8 @@ De igual forma, se realizó un formato de cuestionarios de satisfacción que se 
 
 Por ultimo y no menos importante, se realizaron de manera exitosa las 10 pruebas de usabilidad que atendían a las 10 historias de usuario enfocadas a los usuarios compradores y vendedores, estas pruebas se grabaron y se subieron a YouTube junto con su respectiva retroalimentación, en el siguiente archivo markdown encontrará los enlaces a los videos: [Videos UT](https://github.com/SaidGonzalez19/OpenMarket/blob/489823e3305d52a03c7a64e85a0c64b503ae7ed2/Pruebas/Pruebas%20informales/Videos%20UT.md)
 
+### Resultados
+Los resultados de las pruebas de usabilidad indican las facilidades y dificultades que tuvo el usuario al momento de realizar la prueba, así como lo que más le gustó y disgustó y los puntos de mejora a aplicar, todo esto se redacta en el siguiente docuemento: [Resultados](https://github.com/SaidGonzalez19/OpenMarket/blob/5152eff02880f084af5d591fa63c88f93394437d/Pruebas/Resultados.pdf)
 ## Proceso
 ### Descripción del proceso y gestión del proceso
 El proceso y gestión del proceso para esta entrega se hizo con ayuda de una tabla de gestión, la cual contuvo el único sprint para esta entrega (**el sprint 6**), en el se plasmaron las 10 distintas historias de usuario enfocadas al usuario y 1 enfocada al equipo de desarrollo, asimismo, estas historias de usuario contienen tareas con sus respectivos responsables, estimación de tiempo, y tiempo tomado en el transcurso de la semana, en enlace de la tabla de gestión es el siguiente: [Tabla de gestión](https://alumnosuady-my.sharepoint.com/:x:/g/personal/a21201668_alumnos_uady_mx/ERBAaFBy5-VMtShH0geK7MgBUHvZ_wE4SaO4BJuSmurzpQ?e=gJUsV3)
