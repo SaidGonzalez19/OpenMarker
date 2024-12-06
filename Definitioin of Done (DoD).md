@@ -11,3 +11,4 @@ que lleguen al estado de "Terminado" o "Hecho":
 - Las pruebas de usabilidad han sido completadas y grabadas
 - Las pruebas de usabilidad han sido subidas en YouTube y documentadas en el repositorio
 - Los ajustes sugeridos en las pruebas han sido implementados
+- Las tareas cumplen con los criterios de aceptación establecidos en el sprint
